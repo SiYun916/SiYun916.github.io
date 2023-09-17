@@ -5,7 +5,14 @@
         <link>http://example.com</link>
         <description></description>
         <language>en</language>
-        <pubDate>Mon, 18 Sep 2023 00:18:45 +0800</pubDate>
-        <lastBuildDate>Mon, 18 Sep 2023 00:18:45 +0800</lastBuildDate>
+        <pubDate>Mon, 18 Sep 2023 00:20:03 +0800</pubDate>
+        <lastBuildDate>Mon, 18 Sep 2023 00:20:03 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/09/18/test/</guid>
+            <title>test</title>
+            <link>http://example.com/2023/09/18/test/</link>
+            <pubDate>Mon, 18 Sep 2023 00:20:03 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
     </channel>
 </rss>
