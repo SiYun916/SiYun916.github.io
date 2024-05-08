@@ -1,0 +1,378 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footerStyle1 {
+    position: unset;
+    clear:both;
+    height: 5vh;
+    font-size: 1.5vh;
+    color: #999;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.navbar {
+    height: 20vh;
+    width: 100vw;
+    position: fixed;
+    opacity:0.90;  
+    background: linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0.7) 0%,
+        rgba(0, 0, 0, 0.5) 40%,
+        rgba(0, 0, 0, 0.05) 89%,
+        rgba(0, 0, 0, 0) 100%
+    );
+    z-index: 100;
+}
+
+.navlogo {
+    width: 4vw;
+    height: 8vh;
+    background-image: url(/image/rose.png);
+    background-size: cover;
+    position: absolute;
+    left: 24vw;
+    top: 3vh;
+}
+
+.navthename {
+    width: 4vw;
+    height: 4vh;
+    position: absolute;
+    left: 28vw;
+    top: 3vh;
+    font-size: 1.75em;
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.navauthor {
+    width: 4vw;
+    height: 4vh;
+    position: absolute;
+    left: 28vw;
+    top: 7vh;
+    font-size: 1.5em;
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.navmenu {
+    width: 25vw;
+    height: 4vh;
+    position: absolute;
+    left: 51vw;
+    top: 5vh;
+    font-size: 1em;
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#menu {
+    float: right;
+}
+
+.menu-item {
+    height: 4vh;
+    width: 5vw;
+    list-style: none;
+    float: left;
+    padding: 2px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.menu-item a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.menu-item a:hover {
+    border-bottom: 1px solid;
+    opacity: 60%;
+}
+
+.cover {
+    height: 100%;
+    width: 100%;
+}
+
+.coverimage {
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://raw.githubusercontent.com/SiYun916/CDN/master/hexoThemeDevelop/bg1.png);
+    background-size: cover;
+}
+
+.postsblock {
+    height: 2800px;
+    width: 100%;
+    position: relative;
+    background-color: whitesmoke;
+}
+
+.segmentation {
+    width: 60%;
+    height: 50px;
+    position: absolute;
+    left: 20%;
+    top: 30px;
+    border-bottom: dotted;
+    line-height: 50px;
+    font-size: 25px;
+}
+
+.posts {
+    /* background-color: black; */
+    width: 60%;
+    height: 2700px;
+    position: absolute;
+    left: 20%;
+    top: 80px;
+}
+
+.onepostblock {
+    background-color: yellowgreen;
+    width: auto;
+    height: 300px;
+    margin-top: 30px;
+    border-radius: 15px 50px 30px;
+}
+
+.onepostpart1 {
+    /* background-color: red; */
+    width: 50%;
+    height: 100%;
+    padding: 20px;
+    float: left;
+}
+
+.oneposttime {
+    width: 100%;
+    height: 25px;
+    line-height: 25px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.oneposttitle {
+    /* background-color: white; */
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
+
+.oneposttitle a {
+    text-decoration: none;
+    font-size: 44px;
+    font-weight: bold;
+    color: rgb(50, 50, 50);
+}
+
+.oneposttitle a:hover {
+    /* color: rgb(166, 27, 41); */
+    color: rgb(238, 63, 77);
+    transition:color 0.4s ease-out;
+}
+
+.oneposttandc {
+    /* background-color: #999; */
+    height: 40px;
+    width: 100%;
+    line-height: 20px;
+    font-size: 20px;
+    padding: 10px 0px 10px 0px;
+}
+.oneposttandc span a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(50, 50, 50);
+}
+
+.oneposttandc span a:hover {
+    color: rgb(238, 63, 77);
+    transition:color 0.4s ease-out;
+}
+
+.onepostexcerpt {
+    /* background-color: wheat; */
+    width: 100%;
+    height: 150px;
+    /* padding: 10px 0px 20px 0px; */
+}
+
+.onepostexcerpt p {
+    color: rgb(50, 50, 50);
+    font-size: 18px;
+    line-height: 28px;
+    overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+}
+
+.onepostblock::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.onepostpart2 {
+    background-image: url(https://raw.githubusercontent.com/SiYun916/CDN/master/everlasting.jpg);
+    width: 50%;
+    height: 100%;
+    float: left;
+    border-radius: 0px 50px 30px 0px;
+    background-size: cover;
+}
+
+.paginatorblock {
+    /* background-color: red; */
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.paginatorblock ul {
+    /* background-color: #999; */
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.paginatorblock a {
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(50, 50, 50);
+}
+
+.paginatorblock a:hover {
+    color: rgb(238, 63, 77);
+    transition:color 0.4s ease-out;
+}
+
+
+.postnavbar {
+    width: 100%;
+}
+
+.postnavbarimage {
+    height: 20vh;
+    width: 100%;
+	background: url(https://raw.githubusercontent.com/SiYun916/CDN/master/hexoThemeDevelop/bg3.png);
+	background-size: cover;
+	z-index: 1;
+}
+
+
+.postpage {
+    width: 100%;
+}
+
+.postpageblock {
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+}
+
+.postpagetitle {
+    /* background-color: red; */
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 70px;
+    font-size: 60px;
+    font-family: "Noto Serif SC", serif;
+    /* font-family: "Ma Shan Zheng", cursive; */
+    padding: 15px 0px 15px 0px;
+}
+
+.postpageinfo {
+    background-color: whitesmoke;
+    height: 30px;
+    width: 100%;
+    padding: 0px 20% 0px 20%;
+    line-height: 30px;
+    font-size: 20px;
+    /* word-spacing: 30px; */
+    text-align: center;
+}
+
+.postpageinfo a{
+    text-decoration: none;
+    color: rgb(50, 50, 50);
+}
+
+.postpageinfo a:hover{
+    color: rgb(238, 63, 77);
+    transition:color 0.4s ease-out;
+}
+
+.postcontent {
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+    /* font-family: "Ma Shan Zheng", cursive; */
+    font-family: "Noto Serif SC", serif;
+    font-size: 1.5em;
+    padding: 20px 20% 20px 20%;
+}
+
+.postcontent h3 {
+    font-size: 1.75em;
+}
+
+.postcontent h2 {
+    font-size: 2em;
+}
+
+.postcontent h1 {
+    font-size: 2.5em;
+}
+
+.postpagecomment {
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+    padding: 20px 20% 20px 20%;
+}
+
+
+.aboutpagecontent {
+    background-color: whitesmoke;
+    width: 100%;
+    height: auto;
+    font-family: "Ma Shan Zheng", cursive; 
+    font-size: 1.5em;
+    padding: 20px 20% 20px 20%;
+}
+
+.aboutpagecontent li {
+    margin-left: 5%;
+}
+
+.aboutpagecontent h3 {
+    font-size: 1.75em;
+}
+
+.aboutpagecontent h2 {
+    font-size: 2em;
+}
+
+.aboutpagecontent h1 {
+    font-size: 2.5em;
+}
