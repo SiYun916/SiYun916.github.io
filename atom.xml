@@ -5,9 +5,13 @@
     <link href="http://example.com" />
     <updated>2024-04-27T13:54:39.000Z</updated>
     <category term="游戏简评" />
-    <category term="碎碎念" />
+    <category term="月度小结" />
+    <category term="关于自己" />
     <category term="书摘" />
+    <category term="小小思考" />
+    <category term="想做的事" />
     <category term="疯言疯语" />
+    <category term="年终总结" />
     <entry>
         <id>http://example.com/2024/04/27/%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89/</id>
         <title>形式主义</title>
@@ -26,6 +30,7 @@
 &lt;h2 id=&#34;因果&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#因果&#34;&gt;#&lt;/a&gt; 因果&lt;/h2&gt;
 &lt;p&gt;我不信佛，但我相信因果。因在前，但大多情况下只有看到了果才能串起因。所以啊，但知行好事。&lt;/p&gt;
 </content>
+        <category term="疯言疯语" />
         <updated>2024-04-27T13:54:39.000Z</updated>
     </entry>
     <entry>
@@ -47,6 +52,7 @@
 &lt;p&gt;倘若在我死后，在宇宙中的某个观察点静止，看到是我现在的时刻，青年的模样，历史会再一遍重演。如果以光的速度继续后退，我会不会一动不动，一个姿势永远保持下去，直到宇宙湮灭。&lt;/p&gt;
 &lt;p&gt;原来我们一直都在生死之间。&lt;/p&gt;
 </content>
+        <category term="小小思考" />
         <updated>2024-04-27T12:13:37.000Z</updated>
     </entry>
     <entry>
@@ -65,38 +71,27 @@
 &lt;h2 id=&#34;思想摘录&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#思想摘录&#34;&gt;#&lt;/a&gt; 思想摘录&lt;/h2&gt;
 &lt;p&gt;在以后的年月里，还将有很多我料想不到的事发生，我仍旧有时候默念着 “上帝保佑” 而陷入茫然。但是有一天我认识了神，他有一个更为具体的名字 —— 精神。在科学的迷茫之处，在命运的混沌之点，人唯有乞灵于自己的精神。不管我们信仰什么，都是我们自己的精神的描述和引导。&lt;/p&gt;
 </content>
+        <category term="小小思考" />
         <updated>2024-04-08T14:33:23.000Z</updated>
     </entry>
     <entry>
         <id>http://example.com/2024/03/30/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%89%E6%9C%88%E5%B0%8F%E7%BB%93/</id>
         <title>二四年三月小结</title>
         <link rel="alternate" href="http://example.com/2024/03/30/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%89%E6%9C%88%E5%B0%8F%E7%BB%93/"/>
-        <content type="html">&lt;h1 id=&#34;三月小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三月小结&#34;&gt;#&lt;/a&gt; 三月小结&lt;/h1&gt;
-&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
-&lt;p&gt;又到月末，想再水一篇总结，把欠下的 blog 补全。&lt;/p&gt;
-&lt;p&gt;所以滑动鼠标滚轮，在 keep 上翻看归档的每日计划，仔细回想这个月干了哪些事。唔，这个月总算没太闲着了，也算有些许收获。让我分点列出：&lt;/p&gt;
-&lt;ol&gt;
+        <content type="html">&lt;h2 id=&#34;三月小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三月小结&#34;&gt;#&lt;/a&gt; 三月小结&lt;/h2&gt;
+&lt;h3 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h3&gt;
+&lt;p&gt;又到月末，想再水一篇总结，把欠下的 blog 补全。&lt;br&gt;
+所以滑动鼠标滚轮，在 keep 上翻看归档的每日计划，仔细回想这个月干了哪些事。唔，这个月总算没太闲着了，也算有些许收获。让我分点列出：&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;游戏（玩）&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;不同的冬天（和 ZYF 通关）：还是有点深度的一个游戏，但是剧情有点谜语人。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;碧蓝幻想 relink：演出真不错，主线就是爽游，但要玩得爽也要刷刷刷。奶刀真的帅！&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;山河旅探：玩到第四章了，先不谈抄袭、借鉴什么的。实打实本格推理力作，并且结合了近代史家国元素，值得一玩。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;艾尔登法环：真的是属于，打开了不想关，关了不想打开。如果不是有学习任务，真的想玩一天。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Getting Over It：教研室折磨自己，锻炼心态的。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;LOL：开黑&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;不同的冬天（和 ZYF 通关）：还是有点深度的一个游戏，但是剧情有点谜语人。&lt;/li&gt;
+&lt;li&gt;碧蓝幻想 relink：演出真不错，主线就是爽游，但要玩得爽也要刷刷刷。奶刀真的帅！&lt;/li&gt;
+&lt;li&gt;山河旅探：玩到第四章了，先不谈抄袭、借鉴什么的。实打实本格推理力作，并且结合了近代史家国元素，值得一玩。&lt;/li&gt;
+&lt;li&gt;艾尔登法环：真的是属于，打开了不想关，关了不想打开。如果不是有学习任务，真的想玩一天。&lt;/li&gt;
+&lt;li&gt;Getting Over It：教研室折磨自己，锻炼心态的。&lt;/li&gt;
+&lt;li&gt;LOL：开黑&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -176,7 +171,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划&#34;&gt;#&lt;/a&gt; 计划&lt;/h2&gt;
 &lt;p&gt;书到现在应读九本，实际欠了五本半，估计今年计划泡汤了。blog 按计划算是水了上来。游戏买了也没玩多少（而且卡带还没买过），一个月玩了应该不到 50 个小时，少睡会觉吧。下个月真的得多读一点书了，还有主题开发要迅速提上日常。&lt;/p&gt;
 &lt;p&gt;哎，到现在没有工资，不然考虑买个 surface，提高一下效率，上课开发加上新增一块屏幕。&lt;/p&gt;
@@ -186,6 +181,7 @@
 &lt;p&gt;论文，不想看，想找工作。&lt;/p&gt;
 &lt;p&gt;清明，出去玩一次，不算入旅游计划。&lt;/p&gt;
 </content>
+        <category term="月度小结" />
         <updated>2024-03-30T09:56:13.000Z</updated>
     </entry>
     <entry>
@@ -208,6 +204,7 @@
 &lt;p&gt;（啊啊啊啊啊啊！真受不了自己了，竟然还记得，越看越傻，越看越 2B。）&lt;/p&gt;
 &lt;p&gt;现在对我来说，司云不含有任何涵义，如同 1234 一样就是一个代号。之后的岁月里，或许司云声名远扬，或许极大概率默默无闻一辈子，无论如何，就如同仓颉造字一样，天就是天，地就是地，司云就是司云。&lt;/p&gt;
 </content>
+        <category term="关于自己" />
         <updated>2024-03-30T09:54:37.000Z</updated>
     </entry>
     <entry>
@@ -250,7 +247,7 @@
     </entry>
     <entry>
         <id>http://example.com/2024/03/22/%E6%B5%85%E8%B0%88%E8%8B%8D%E4%B9%8B%E5%BD%BC%E6%96%B9%E7%9A%84%E5%9B%9B%E9%87%8D%E5%A5%8F%E2%80%94%E2%80%94%E6%B8%B8%E6%88%8F%E7%AE%80%E8%AF%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
-        <title>浅谈苍之彼方的四重奏——游戏简评系列（二）</title>
+        <title>《苍彼》游戏简评</title>
         <link rel="alternate" href="http://example.com/2024/03/22/%E6%B5%85%E8%B0%88%E8%8B%8D%E4%B9%8B%E5%BD%BC%E6%96%B9%E7%9A%84%E5%9B%9B%E9%87%8D%E5%A5%8F%E2%80%94%E2%80%94%E6%B8%B8%E6%88%8F%E7%AE%80%E8%AF%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
         <content type="html">&lt;h1 id=&#34;浅谈苍之彼方的四重奏游戏简评系列二&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#浅谈苍之彼方的四重奏游戏简评系列二&#34;&gt;#&lt;/a&gt; 浅谈苍之彼方的四重奏 —— 游戏简评系列（二）&lt;/h1&gt;
 &lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
@@ -316,6 +313,7 @@
 &lt;h2 id=&#34;后记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h2&gt;
 &lt;p&gt;这个月没什么有意思的事情发生，月末这几天晚上都会 LOL 和同学开黑组排，争取上个翡翠。下个月唯一目标，早睡早起，写 Blog 主题。&lt;/p&gt;
 </content>
+        <category term="月度小结" />
         <updated>2024-03-01T13:19:51.000Z</updated>
     </entry>
     <entry>
@@ -412,6 +410,7 @@
 &lt;h2 id=&#34;结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#结&#34;&gt;#&lt;/a&gt; 结&lt;/h2&gt;
 &lt;p&gt;心情很烦，不想写太多内容。想回家，想放假，这鬼地方一分钟也不想待了。我真的真的真的受不了了。&lt;/p&gt;
 </content>
+        <category term="月度小结" />
         <updated>2024-01-30T17:19:13.000Z</updated>
     </entry>
     <entry>
@@ -435,6 +434,7 @@
 &lt;p&gt;以前读《围城》的时候还没什么感觉，现在理性想一下，就是这样，不只是婚姻，人生也是 “城内的人想出来，城外的人想进去”。二月份有时间再读一遍围城吧。&lt;/p&gt;
 &lt;h1 id=&#34;&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h1&gt;
 </content>
+        <category term="小小思考" />
         <updated>2024-01-30T17:17:39.000Z</updated>
     </entry>
     <entry>
@@ -611,6 +611,7 @@
 &lt;p&gt;至此，就这样结束年终总结吧，其实一月份以来，尤其是最近这一周发生的事情还挺多的，不仅自己单独去一个新地方出差而且去了一次音乐会（在西安音乐厅，宫崎骏经典动漫久石让经典曲目音乐会），挺想写一写的。不过现在已经是二四年了，还是留到二四年的年末去写吧，那时候会不会还记得一月份的这些嘞？谁知道呢！而且呀，今天晚上我又双叒叕在 Keep 上立下了 Flag，希望在 24 年能实现它们吧！&lt;/p&gt;
 &lt;p&gt;2024 年 1 月 13 日晚 11 点 54 分于海 C 宿舍&lt;/p&gt;
 </content>
+        <category term="年终总结" />
         <updated>2024-01-13T16:03:15.000Z</updated>
     </entry>
     <entry>
@@ -643,11 +644,12 @@
 &lt;h2 id=&#34;后记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h2&gt;
 &lt;p&gt;昨晚又看了一遍 Steve Jobs 在斯坦福的演讲。最后想对自己说，放下执念吧，好好活着，好好生活，好好对过往说句再见。即便现在还不清楚 what’s you love，不清楚终其一生为什么活着。还是要开玩笑的说一句，我要成为游戏高手。&lt;/p&gt;
 </content>
+        <category term="小小思考" />
         <updated>2023-11-11T12:31:45.000Z</updated>
     </entry>
     <entry>
         <id>http://example.com/2023/10/22/%E3%80%8A%E5%8F%AA%E7%8B%BC%EF%BC%9A%E5%BD%B1%E9%80%9D%E4%BA%8C%E5%BA%A6%E3%80%8B%E2%80%94%E2%80%94%E6%B8%B8%E6%88%8F%E7%AE%80%E8%AF%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89/</id>
-        <title>《只狼：影逝二度》——游戏简评系列（一）</title>
+        <title>《只狼》游戏简评</title>
         <link rel="alternate" href="http://example.com/2023/10/22/%E3%80%8A%E5%8F%AA%E7%8B%BC%EF%BC%9A%E5%BD%B1%E9%80%9D%E4%BA%8C%E5%BA%A6%E3%80%8B%E2%80%94%E2%80%94%E6%B8%B8%E6%88%8F%E7%AE%80%E8%AF%84%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89/"/>
         <content type="html">&lt;h1 id=&#34;只狼影逝二度游戏简评系列一&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#只狼影逝二度游戏简评系列一&#34;&gt;#&lt;/a&gt; 《只狼：影逝二度》—— 游戏简评系列（一）&lt;/h1&gt;
 &lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
@@ -730,7 +732,7 @@
 &lt;h1 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h1&gt;
 &lt;p&gt;本篇的小记只能说写了一半，这个系列也将一直写下去。书单仅写了两本，别的书也不知道看啥，只能先去图书馆转转，之后再补全，大概率是推理小说相关，我对此很感兴趣。除这些外，以后估计还会出一个专业相关的书单，包括一些基础课程的书籍等等，需要提高一下自己，为两年后找工作准备吧。还有一个项目的清单，准备学着写几个项目放到 GitHub 上，找实习和工作用，希望能坚持下去。&lt;/p&gt;
 </content>
-        <category term="碎碎念" />
+        <category term="想做的事" />
         <updated>2023-09-27T13:20:52.000Z</updated>
     </entry>
 </feed>

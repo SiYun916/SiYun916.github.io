@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title> • Posts by &#34;关于自己&#34; tag</title>
+    <link href="http://example.com" />
+    <updated>2024-03-30T09:54:37.000Z</updated>
+    <category term="游戏简评" />
+    <category term="月度小结" />
+    <category term="关于自己" />
+    <category term="书摘" />
+    <category term="小小思考" />
+    <category term="想做的事" />
+    <category term="疯言疯语" />
+    <category term="年终总结" />
+    <entry>
+        <id>http://example.com/2024/03/30/%E5%85%B3%E4%BA%8E%E5%8F%B8%E4%BA%91%E7%9A%84%E7%94%B1%E6%9D%A5/</id>
+        <title>关于司云的由来</title>
+        <link rel="alternate" href="http://example.com/2024/03/30/%E5%85%B3%E4%BA%8E%E5%8F%B8%E4%BA%91%E7%9A%84%E7%94%B1%E6%9D%A5/"/>
+        <content type="html">&lt;h1 id=&#34;关于司云的由来&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#关于司云的由来&#34;&gt;#&lt;/a&gt; 关于司云的由来&lt;/h1&gt;
+&lt;p&gt;我所有的网名，各个平台的昵称都相同，都是 siyun 或者 sssiyun，中文写作司云。不知道会不会有人对于 siyun 这个名字感到好奇，为什么要取名叫 siyun 以及它的寓意是什么。&lt;/p&gt;
+&lt;p&gt;不管您好不好奇，这里就容我自作多情，浅浅回答一下这个问题。&lt;/p&gt;
+&lt;h2 id=&#34;源起&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#源起&#34;&gt;#&lt;/a&gt; 源起&lt;/h2&gt;
+&lt;p&gt;司云这个名字来源于一篇互联网早期的玄幻小说《悠幻玄谜》。&lt;/p&gt;
+&lt;p&gt;经过搜索，这篇小说如今已经销声匿迹，即便是在最初发布的平台 “起点” 上也找不到它的踪迹了。只有在某个盗版网站上留存着这部小说的篇章。而且可惜的一点是，这部小说，我最终也没有等到它的结局。&lt;/p&gt;
+&lt;p&gt;世事皆有遗憾，可能一切也都是命中注定。&lt;/p&gt;
+&lt;p&gt;在十几年前的某天下午（可能是 2012 年？我也记不清了），我在我姨家和这本书相遇了。至今都不知道是谁遗留在那的书。当时是第一次接触到这种书而且恰逢又正在中二的年纪（现在可能也是），便喜欢上了这种，现在看来故作高深、毫无营养、充满文艺酸腐的小说。这本小说是多主角的，其中一个主角叫做司云，然后 “称号” 是白玫瑰，加之是个推理的天才，所以当时不自觉带入了，给 QQ 的小号取名少司云（仿少司命），后改名司云。&lt;/p&gt;
+&lt;p&gt;一直到后来后来，高中毕业。QQ 小号成了大号，想改但又不知道改成什么，所以名字也懒得换了，一直延用至今。&lt;/p&gt;
+&lt;p&gt;如今无论注册什么用户名、取什么网名，我都会直接写司云。可能我就像是巴普洛夫的狗，给自己形成心里暗示了。&lt;/p&gt;
+&lt;h2 id=&#34;寓意&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#寓意&#34;&gt;#&lt;/a&gt; 寓意&lt;/h2&gt;
+&lt;p&gt;我们的名字，或多或少都寄寓了父母的情感与期盼，方块字的背后又隐藏了哪样的寓意呢，亦或哪种寓意成就了这个名字呢。以我而言，出生在冬天，所以名字带寒。&lt;/p&gt;
+&lt;p&gt;司云，名字，作为一个符号，我也曾在中二的年代为它硬找过一些寓意。比如：司万物之长短，云天地之高低。&lt;/p&gt;
+&lt;p&gt;（啊啊啊啊啊啊！真受不了自己了，竟然还记得，越看越傻，越看越 2B。）&lt;/p&gt;
+&lt;p&gt;现在对我来说，司云不含有任何涵义，如同 1234 一样就是一个代号。之后的岁月里，或许司云声名远扬，或许极大概率默默无闻一辈子，无论如何，就如同仓颉造字一样，天就是天，地就是地，司云就是司云。&lt;/p&gt;
+</content>
+        <category term="关于自己" />
+        <updated>2024-03-30T09:54:37.000Z</updated>
+    </entry>
+</feed>

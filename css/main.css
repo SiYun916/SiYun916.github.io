@@ -332,6 +332,11 @@
     padding: 20px 20% 20px 20%;
 }
 
+.postcontent li {
+    margin-left: 5%;
+}
+
+
 .postcontent h3 {
     font-size: 1.75em;
 }
@@ -349,6 +354,12 @@
     width: 100%;
     height: auto;
     padding: 20px 20% 20px 20%;
+}
+
+.postcontent p img {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
 }
 
 

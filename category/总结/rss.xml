@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title> • Posts by &#34;总结&#34; category</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Sat, 30 Mar 2024 17:56:13 +0800</pubDate>
+        <lastBuildDate>Sat, 30 Mar 2024 17:56:13 +0800</lastBuildDate>
+        <category>游戏简评</category>
+        <category>月度小结</category>
+        <category>关于自己</category>
+        <category>书摘</category>
+        <category>小小思考</category>
+        <category>想做的事</category>
+        <category>疯言疯语</category>
+        <category>年终总结</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/03/30/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%89%E6%9C%88%E5%B0%8F%E7%BB%93/</guid>
+            <title>二四年三月小结</title>
+            <link>http://example.com/2024/03/30/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%89%E6%9C%88%E5%B0%8F%E7%BB%93/</link>
+            <category>月度小结</category>
+            <pubDate>Sat, 30 Mar 2024 17:56:13 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;三月小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三月小结&#34;&gt;#&lt;/a&gt; 三月小结&lt;/h2&gt;
+&lt;h3 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h3&gt;
+&lt;p&gt;又到月末，想再水一篇总结，把欠下的 blog 补全。&lt;br&gt;
+所以滑动鼠标滚轮，在 keep 上翻看归档的每日计划，仔细回想这个月干了哪些事。唔，这个月总算没太闲着了，也算有些许收获。让我分点列出：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;游戏（玩）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不同的冬天（和 ZYF 通关）：还是有点深度的一个游戏，但是剧情有点谜语人。&lt;/li&gt;
+&lt;li&gt;碧蓝幻想 relink：演出真不错，主线就是爽游，但要玩得爽也要刷刷刷。奶刀真的帅！&lt;/li&gt;
+&lt;li&gt;山河旅探：玩到第四章了，先不谈抄袭、借鉴什么的。实打实本格推理力作，并且结合了近代史家国元素，值得一玩。&lt;/li&gt;
+&lt;li&gt;艾尔登法环：真的是属于，打开了不想关，关了不想打开。如果不是有学习任务，真的想玩一天。&lt;/li&gt;
+&lt;li&gt;Getting Over It：教研室折磨自己，锻炼心态的。&lt;/li&gt;
+&lt;li&gt;LOL：开黑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;游戏（买）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;入手了 PSV&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;碧蓝幻想 relink&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;暗黑地牢：玩不来&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;犹格索托的庭院&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GRIS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SHADOW OF WAR&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PORTAL&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;书（读）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;旅宿：已读完，值得二刷&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;听听那冷雨：太专业的读不下去，就让我算是读完了吧&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我与地坛：没读完&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;项目相关&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;实验室的交接代码看完了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用 C++ 复现了论文 SPDMEF 的代码，并提交到了 github&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;整理 pin 的项目，提交了第一个单词 &amp;quot;I&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;C++、JAVA、Makefile、Boost 库、opencv、编程规范学习并整理到语雀&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 天时间重装了电脑，自己装了机械硬盘，&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;杂项&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;上课和考试&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;乒乓球与网球&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;师兄师姐拍毕业照吃饭&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;逛校园和拍照&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划&#34;&gt;#&lt;/a&gt; 计划&lt;/h2&gt;
+&lt;p&gt;书到现在应读九本，实际欠了五本半，估计今年计划泡汤了。blog 按计划算是水了上来。游戏买了也没玩多少（而且卡带还没买过），一个月玩了应该不到 50 个小时，少睡会觉吧。下个月真的得多读一点书了，还有主题开发要迅速提上日常。&lt;/p&gt;
+&lt;p&gt;哎，到现在没有工资，不然考虑买个 surface，提高一下效率，上课开发加上新增一块屏幕。&lt;/p&gt;
+&lt;p&gt;目前计划，下个月把 C++ 5th 那本书看完，以及 effictive c++ 看完，还有 json 那个项目。&lt;/p&gt;
+&lt;p&gt;实验室项目看看视觉相关的知识吧，还有 Qt 知识。&lt;/p&gt;
+&lt;p&gt;游戏，先把山河旅探和法环通关，然后是碧蓝。春物教研室玩吧，躺床上的时候玩一会苍彼。&lt;/p&gt;
+&lt;p&gt;论文，不想看，想找工作。&lt;/p&gt;
+&lt;p&gt;清明，出去玩一次，不算入旅游计划。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/03/01/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%BA%8C%E6%9C%88%E5%B0%8F%E7%BB%93/</guid>
+            <title>二四年二月小结</title>
+            <link>http://example.com/2024/03/01/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%BA%8C%E6%9C%88%E5%B0%8F%E7%BB%93/</link>
+            <category>月度小结</category>
+            <pubDate>Fri, 01 Mar 2024 21:19:51 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;二月小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二月小结&#34;&gt;#&lt;/a&gt; 二月小结&lt;/h1&gt;
+&lt;h2 id=&#34;小叙&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#小叙&#34;&gt;#&lt;/a&gt; 小叙&lt;/h2&gt;
+&lt;p&gt;一句话总结一下二月就是吃喝玩乐。&lt;/p&gt;
+&lt;p&gt;容我先用流水账的方式回忆一下我这个月都干了什么。2 月 3 日，坐车回石家庄，找发小玩了三天直到到腊月二十六晚才回家。之后的日子里不是在床上躺着玩手机，就是去网吧五排开黑，要么就是去串亲戚去吃饭，期间初中十几个同学还聚了一次。悠闲的时光过得总是很快，初九也就是 18 号回到学校，当晚得知有个作业没交后花了 30 分钟写完匆匆上交。之后两天就是拿快递和收拾宿舍，偶尔去教研室学一会。19 到 25 这周内，写了写两门课程的作业，IS 的代码改了一些，看了会书，其余全花费在游戏上。26 号用 latex 写完 Data Mining 这门课的报告，27 号看了 LT 的代码并改了改 IS 代码。&lt;/p&gt;
+&lt;p&gt;综上就是这一个月所干的全部事情，似乎没有什么特别值得记住的。&lt;/p&gt;
+&lt;h2 id=&#34;flag完成情况&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flag完成情况&#34;&gt;#&lt;/a&gt; FLAG 完成情况&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;游戏入手情况：《山河旅探》、《饿殍：明末千里行》及周边、《桃源村日志》及周边、《黑森町奇谭》&lt;/li&gt;
+&lt;li&gt;游戏通关情况：未通关任一游戏，二月在家主要玩 PUBG 和 LOL，回校后玩了苍彼美咲线、艾尔登法环、山河旅探。上述三个真的是好游戏，值得写评测。&lt;/li&gt;
+&lt;li&gt;读书情况：看完了阿加莎的《四魔头》（在回家的高铁上看的），只能说这本书不太推荐；还正在看余光中的《听听那冷雨》，有些文章值得细品，给我的整体感觉是辞藻华丽（中性），有些句子读不明白。相比于汪曾祺先生的散文来说，我还是更喜欢汪先生的文风，不过余光中先生的散文中许多段落都值得背诵摘抄。除此之外，复习了《项脊轩志》和《虞美人・听雨》，真的好喜欢这两篇啊，尤其是《项脊轩志》，越读感触越深。&lt;/li&gt;
+&lt;li&gt;入手了咖啡机，瑞幸的豆子，自己做了几次，味道只能说正统美式苦味，说不上好喝。需要学一学咖啡怎么做。&lt;/li&gt;
+&lt;li&gt;Blog 主题没写，前端没学，JAVA 都没学。C++ 没怎么看（看了一点点中的一点点）。项目没进展，而且又多了一个活。&lt;/li&gt;
+&lt;li&gt;意外收获：回家换了一个手机苹果 13&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;后记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h2&gt;
+&lt;p&gt;这个月没什么有意思的事情发生，月末这几天晚上都会 LOL 和同学开黑组排，争取上个翡翠。下个月唯一目标，早睡早起，写 Blog 主题。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/01/31/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%80%E6%9C%88%E5%B0%8F%E7%BB%93/</guid>
+            <title>二四年一月小结</title>
+            <link>http://example.com/2024/01/31/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%80%E6%9C%88%E5%B0%8F%E7%BB%93/</link>
+            <category>月度小结</category>
+            <pubDate>Wed, 31 Jan 2024 01:19:13 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;二四年一月小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二四年一月小结&#34;&gt;#&lt;/a&gt; 二四年一月小结&lt;/h1&gt;
+&lt;h2 id=&#34;序&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#序&#34;&gt;#&lt;/a&gt; 序&lt;/h2&gt;
+&lt;p&gt;本来不打算写这篇流水账的，但如果不写，自己立 FLAG 就又成功没有实现。好吧，写！回想这个月来，自己也没闲几天，不是出差就是在准备去出差的路上。出差的日子总共加起来也有九天了。尤其是月末这几天心情很糟，真的很想发泄骂人。我宣布我目前最大的目标就是尽快毕业。&lt;/p&gt;
+&lt;h2 id=&#34;流水账&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#流水账&#34;&gt;#&lt;/a&gt; 流水账&lt;/h2&gt;
+&lt;h3 id=&#34;一月份玩的游戏&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一月份玩的游戏&#34;&gt;#&lt;/a&gt; 一月份玩的游戏&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;LOL&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;幻兽帕鲁（未通关）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;山海旅人（全成就）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;近月少女礼仪（露娜线通关，其余未通）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;wildfire（未通关）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;100 Asian Cats（全成就）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;100 Capitalist Cats（全成就）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ICEY（通关，未全成就）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MHW&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;一月份读的书&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一月份读的书&#34;&gt;#&lt;/a&gt; 一月份读的书&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;八仙&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;四魔头（未读完&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;一月份看的番&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一月份看的番&#34;&gt;#&lt;/a&gt; 一月份看的番&lt;/h3&gt;
+&lt;p&gt;厕纸系列&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;圣剑学院的魔剑使&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;捡到被退婚大小姐的我&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因为不是真正的伙伴而被逐出勇者队伍&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;暴食狂战士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;月光下的异世界之旅第二季（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为了在异世界也能抚摸毛茸茸而努力（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;事与愿违的不死冒险者（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因为不是真正的伙伴而被逐出勇者队伍第二季（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;推荐系列&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;关于我转生变成史莱姆这档事  彩叶草之梦&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;葬送的芙莉莲&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;物理魔法师马修第二季（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;一月工作学习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一月工作学习&#34;&gt;#&lt;/a&gt; 一月工作学习&lt;/h3&gt;
+&lt;p&gt;极度弱智的 IS，我真的不想再搞了。这个大部分时间都在干这个，有啥用啊！！！&lt;/p&gt;
+&lt;p&gt;没有科研，只有出差。&lt;/p&gt;
+&lt;p&gt;学了一点 CSS 的知识，想先设计一下自己的主题。做了几道题以及配了一下环境，还有写了一些文档。（还算是有一些自己的收获吧）&lt;/p&gt;
+&lt;h2 id=&#34;结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#结&#34;&gt;#&lt;/a&gt; 结&lt;/h2&gt;
+&lt;p&gt;心情很烦，不想写太多内容。想回家，想放假，这鬼地方一分钟也不想待了。我真的真的真的受不了了。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/01/14/%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%80%E7%AF%87%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%EF%BC%9F/</guid>
+            <title>这可能是一篇年终总结？</title>
+            <link>http://example.com/2024/01/14/%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%80%E7%AF%87%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%EF%BC%9F/</link>
+            <category>年终总结</category>
+            <pubDate>Sun, 14 Jan 2024 00:03:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;这可能是一篇年终总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#这可能是一篇年终总结&#34;&gt;#&lt;/a&gt; 这可能是一篇年终总结？&lt;/h1&gt;
+&lt;h2 id=&#34;起&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#起&#34;&gt;#&lt;/a&gt; 起&lt;/h2&gt;
+&lt;p&gt;关于为什么在 24 年还要写 23 年的年终总结这个事情，其实我也解释不清楚。但我大概知道为什么没有在 23 年写完。其一呢，是因为懒，老毛病了；其二呢是因为忙，十二月份可能是 23 年整年来最忙的一个月份。或许是想给以后回忆起 23 年（也算是人生重要的转折点吧）的时候留下份能看到的念想，所以匆匆写下这篇 “年记”，仅来凭吊 “墓” 中这一年的悲欢离合。&lt;/p&gt;
+&lt;h2 id=&#34;承&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#承&#34;&gt;#&lt;/a&gt; 承&lt;/h2&gt;
+&lt;p&gt;细细想来，年初发生的事情已经不太记得了，只能从手机中保存的为数不多的图片说起。所以恕我将这篇 “年记” 的时间跨度再扩大至 22 年的 12 月 16 日。从考研前夕说起，&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/SiYun916/CDN/blogPostPhotos/0112/1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这幅照片拍摄的时间是 22 年 12 月 16 日下午三点整，按我当时的作息规律来看，我应该是刚吃完午饭准备回图书馆继续复习的。至于拍下这张图的原因，现在我已经忘记了，大概是因为当时风景不错（手机相机比较辣鸡，拍不出好看的图来）。但那段时光的心情，我至今难忘。考研末期，心中被负面情绪充斥着：不安、焦虑、紧张、恐惧.…… 其中恐惧占据了大半。至于为什么会恐惧？容我罗列以下几点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;真正认真复习的时间不到三个月，而且复习的时候还在边看直播边复习，一天有效的学习时间只有半天。10 月份才开始复习两门专业课，12 月份左右才开始认真背政治，数学更是没做过一套模拟卷，到 16 号才做了几套的真题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;疫情已经放开，除了考研的都已经放假，害怕自己考试那几天阳了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;从小到大都对考试有莫名的恐惧感，尤其是在自己知道自己没有充分准备的情况下。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;胡思乱想，和别人去对比，害怕考不上研辜负了期待，害怕考不上被别人用异样的眼光看待。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;现在看来，自己当时真的作死，考不上也是正常的。重新说回 22 年 12 月，考研前四天，我不幸的阳了，在没背完甚至是没写完肖四套卷的情况下，我阳了。在床上躺了 3 天，好一点的时候就背一背肖四，难受（感觉身子很冷）的时候就睡觉。直到 24 号，拖着咳嗽以及不知道烧不烧的身体去考试。当考完数学的时候，我感觉我凉了，因为我不仅有的题不会而且还没写完。政治和英语还行，最后一科专业课，当我看到数据结构一堆手写代码的题的时候，我心彻底凉了，我知道我要二战了。最后坚持着考完，在学校颓丧了几天后，回到家大哭了一场开始准备找工作。&lt;/p&gt;
+&lt;p&gt;在大哭一场后，心情似乎好了许多，也逐渐能够接受各种结局（毕竟是自己作的）。所以一二月份寒假的时候，一边看着招聘网站，刷着算法题，一边应父母要求报了本去学车，顺便和发小、和初中同学出去聚了聚，每天都有事情做，总体过的比较充实。&lt;/p&gt;
+&lt;p&gt;二三年二月初，刚好科目二考完疫情结束了考研也结束了，某发小 LE 提出去厦门旅游一趟。询问父母意见后，启程出发去厦门。二月七日，从正定机场出发，空中随手拍了一张黄昏。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/SiYun916/CDN/blogPostPhotos/0112/2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;当天到了厦门后，由于天色已晚，仅仅出去转了转就回酒店休息了。顺带一提的是，在厦门那几天晚上，都是住的电竞酒店，白天出去玩，晚上开黑打游戏，真的真的真的超级爽！随后几天，在厦门逛了鼓浪屿、沙滩、双子塔等等，吃了一些特色小吃，做了轮渡，去了厦门大学…… 最后一天走的时候，还是有些依依不舍。纵观整趟旅游下来，心情变得十分舒畅，一扫考研的阴霾。下面附上在鼓浪屿拍的美图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/SiYun916/CDN/blogPostPhotos/0112/3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;从厦门回来后，短短过了一周就回到西安上学，此时考研成绩也即将公布。成绩出来那天，记得是个周二，出分的时候还在学游泳（当时游泳课因上学期疫情影响没有结课，所以延续到了新学期）。听到课上的人讨论到成绩，我痛苦的回忆开始攻击我。熬到下课，不得不去查成绩了，我怀着悲痛欲绝的心情，登上研招网，点击初试成绩查询，看到了如下一幕：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/SiYun916/CDN/blogPostPhotos/0112/4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;当时，我是震惊的，随后狂喜。真的没有想到自己能过线，甚至是能突破 400 分。当天给亲朋好友报喜，随后摆了几天（真觉得自己废了）。小摆几天后，有了初试的兜底开始特别认真地准备复试，开始写机试题，复习各专业课的知识。因为复试涉及到面试，要考察的知识会特别多，并且当时只有不到一个月，在准备复试的时候也是十分紧张，每天去图书馆，担心自己复试被刷掉（在现在看来是多虑了）。&lt;/p&gt;
+&lt;p&gt;不久，三月二十五日出了复试的要求，我紧紧张张又复习了几天后，三十日中午开始机试，题比较简单，不会刷人。三十一日面试，回想起那一天的心情，只用煎熬两个字来形容。那一天是电话提前通知，在等电话的时候，完全看不下去书，但也不想去面试。在这种极度纠结的心情中度过了一上午，等到 11 点多的时候通知下午两点多去面试。下午到学院楼的时候，外面有几个人也一同在等，大部分都是本校同学。还在和本校同学闲谈之际就叫到了我的名字，之后进去面试，整个复试过程我感觉自己在胡说八道，翻译也是瞎答，好在十几分钟过的比较快，熬过了赶快溜出门来。就这样，复试平平无奇地就过去了，三月也就稀里糊涂的过去了。下面是三月三十日在云 F 楼下拍到的夕阳，那时我的心情和 12 月 16 日那天截然相反，在夕阳中，我看到了希望。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/SiYun916/CDN/blogPostPhotos/0112/5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;随后几天，怀着不安的心情迎来了复试结果 —— 复试成绩第一，总成绩第三，考研皆大欢喜，告一段落。随后就是联系导师，签字进组。&lt;/p&gt;
+&lt;p&gt;如果说三月份的主旋律是复试，那么四五六月份的主旋律是吃喝玩乐，乏善可陈。四月份考研尘埃落定，导师也定了，小导让我汇报了两周后忙自己的项目去了，毕设也不着急，没人管我。所以在四月份买了人生第一台 NS 和塞尔达旷野之息。每天挂着直播的同时，8 小时高强度在海拉鲁大陆冲浪，同时玩着 LOL 和永劫，每天熬夜晚起沉迷于虚拟世界，逍遥度日（而今看来实在是虚度了大片时光）。有时间也偶尔会和舍友同学进城玩，过生日、抓娃娃以及去游乐场等。若以流水账的形式记录一下四五六月就是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;四月：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;给小导汇报两次研究进展&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;毕业论文中期准备&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;入手 NS 和塞尔达&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;五月：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;颓废度日，沉迷于游戏，偶尔逛逛学校拍拍风景&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;毕业论文给导师汇报&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;游乐场&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新入 KZZI 键盘&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;六月：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;给同学过生日，狂抓娃娃，游乐场&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;毕业论文和查重&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;再入一把 KZZI 键盘&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网游以及塞尔达王国之泪卡带终于到了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;重庆毕业旅行&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;整理下看来，四五六月确实没干什么事，虚度了大半的光阴，着实不应该，但也可以看作是考上研后地报复性玩耍，情有可原。不过我反思一点：玩了塞尔达以及只狼等等优质单机游戏后，以后垃圾网游要少玩一点，搞心态又浪费时间。（至于 23 年的游戏推荐以及感想之后再说）&lt;/p&gt;
+&lt;p&gt;哦，突然想起重庆之旅（把六月份从上面摘出去）。六月中旬，Z 同学突然提起去旅行，于是没加思索直接就走，去了重庆。我刚好有个发小在重庆，正好去了聚一聚。五天四夜总结下来玩得很开心。重庆景点不多，主要是吃的好，火锅真滴好吃还有川菜，不过不能常吃，太辣啦！倒数第二天，我还单独去了发小的学校东南大学转了转，不仅感叹建筑风格比我们学校强太多，我们纯纯直男审美。下次有机会再去重庆一次！附一张没有审美、无敌散光的解放碑图片：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/SiYun916/CDN/blogPostPhotos/0112/6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;七月初就是毕设答辩以及毕业，人生只有一次的本科毕业虽在我内心并未激起太多波澜，但还是产生了一些涟漪。答辩非常顺利，也非常水，这里就一笔带过不再赘述。毕业典礼上，我回想着四年的大学时光，我回想到了大一的刻苦努力，大二的得过且过，大三的大摆特摆，大四的悔不当初。而今一切都已经过去，不管过程如何，最终的结果终归是好的。学院拍照结束后，我们几个人又单独去拍了照，留了纪念。其中有些人依旧和我一样本校读研，有人出国，有人二战，最终我又一次经历了不大不小的离别。&lt;/p&gt;
+&lt;p&gt;七月中旬，我拿到了我的毕业证和学位证。至此我本应离校，但由于教研室培训安排，到了月末才真正告别学校回到家中。&lt;/p&gt;
+&lt;h2 id=&#34;转&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#转&#34;&gt;#&lt;/a&gt; 转&lt;/h2&gt;
+&lt;p&gt;暑假算是二三年的转折点，也是我从本科到研究生（黑奴）的转折点。因为教研室培训的安排，我七月末才买票回家。而在家中也没真正休息几天，到家前两周因为培训还没结束，所以一直宅在家里学（其实是边学边玩）。终于培训结束后，又传来要汇报的噩耗，好在汇报我提前准备完了又碰巧它延期，我才有了自由时间。不过自由时间也没玩，全去练车考本去了，好在科三科四一把过，上学前总算是拿到驾照。在家闲的几天里，除开培训以及练车，偶尔也和初中同学聚了聚，去网吧开黑，去打乒乓球，还挺开心。&lt;/p&gt;
+&lt;p&gt;在暑假里，其实一直盼望着开学。为什么呢？因为我打算开学后自己动手组一个台式机（终于可以畅玩 3A 大作了！），然后狠狠地玩（现在想起来，有自己的一个台式真的爽）。至于为什么不在家里装，是因为我怕最后邮寄又花钱还怕邮寄的时候坏了。时间来到 8 月 18 号，回到学校的我下单了所有的配件，如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;板 U：I5 13400F + 微星 B760M 爆破弹  价格 1823&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;显卡：微星 4060TI 三风扇  价格 3294&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;固态：致钛 TP7100/1T  价格 424   三星 980pro 1T  价格 529&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;内存：金士顿 16G*2  价格 494&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;散热：雅浚 4 热管风冷  价格 78&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;电源：航嘉 WD650Evo  价格 290&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;机箱：游戏帝国寂静岭  价格 134&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;显示器：雷神黑武士 SE 24.5  价格 999   HKC 23.8  价格 549&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;其他：小米挂灯  价格 161   鼠标垫   价格 23   工具盒  价格 6.8   理线扎带  价格 3&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;现在整体看来并不是最优、最具性价比的选择，不过让我再选一次还是会这样选。毕竟第一次自己选配件装机，自己心里舒服就好。&lt;/p&gt;
+&lt;p&gt;为了确保第一次装机能够一遍成功，而且确保不会损坏配件，我提前一个月开始看视频学习如何装机（包括选配件的时候也是参考了小黑盒、贴吧大量的文章和评论，自己搜了许多），光是硬件茶谈那个视频我就看了三遍，其余还看了赵德柱的视频。等到 8 月 21 日，所有配件最终都到齐了，吃过晚饭后就开始人生第一次装机之旅。整个装机过程跟着硬件茶谈的视频走，整体还算是成功，但也没有一次点亮。排查原因后发现是内存条没插紧的问题。这里提醒一下，新的内存条需要用橡皮擦一下，而且插的时候要大力（一开始我就是怕把板子给干弯，所以不敢用力），还有板子如果是黄灯闪烁，大概率就是内存的问题。内存问题解决后，成功亮灯启动，下面附上一张亮灯的图。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/SiYun916/CDN/blogPostPhotos/0112/7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这里总结一下装机时候的难点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;装散热的时候要选对不同平台的背板&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;装内存的时候要大力插，不要怕把板子搞坏就不用力&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;电源接线对应着接就行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;理线去他妈，反正我不要颜值，就是一个黑盒子，侧板一盖谁也不爱&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;装完机后，爽了没两天就被叫去写本子了，写这个本子，虽然只是写一部分，但也是一言难尽，具体原因（包括之后的出差也是）也不方便说，这里就略过。八月就这样匆匆过去了。&lt;/p&gt;
+&lt;p&gt;九月开学典礼过后正式开学，因为只是研一，主要是上课，也没啥学术任务和项目，这个月平平淡淡地就这样过去了，现在也没回想起来什么重要的东西。桥豆麻袋，突然想起了九月其实也不平淡。我被安排去了写一个项目的一个功能的代码，主要是 image stitch；然后心血来潮重启自己的写博客计划，顺带想写一个自己的 hexo 主题；还有就是被老师安排希望发一篇 image stitch 的文章，一周一汇报。&lt;/p&gt;
+&lt;p&gt;十月留给我最深的印象就是去某处出差了一周，读研之后第一次出差。估计只是被老师安排去熟悉流程和项目，所以我在这七天里并没有干什么活，大部分时间都是师姐干活我看着。每天 8 点多起床去上班，晚上 10 点左右下班，偶尔下班后出去玩一会，感觉比较轻松。甚至这一周良好的作息帮我纠正了一下生物钟，自出差回来后，整个十月份的作息都比较健康，偶尔晚上会去跑步打网球。除了上课外，别的时间都在教研室改代码（IS 的）和看论文，晚上回宿舍后玩一玩游戏（单机和 LOL）。值得一提的是十月还把只狼通关了，以后有时间会写一篇关于类魂游戏的文章；除只狼外，还和朋友玩了双人成行（又一个神作）；匆忙通关了塞尔达旷野之息（有时间再玩一玩）。&lt;/p&gt;
+&lt;p&gt;十一月比较摆烂，没有什么印象深刻的事，也没有出去玩过，流水账如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;当监工，去老校区写本子，出差&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上课（水课一般都翘了）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;去教研室学习（很少）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;游戏（大部分时间）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;发烧一周，宿舍养病，什么也没干&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不过还好的一点是，十一月偶尔会逛校园拍拍照：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/SiYun916/CDN/blogPostPhotos/0112/8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;十一月有多闲，十二月份就有多忙多崩溃。十二月，首先是发烧刚好就被派去了出差，并且是在距离矩阵论考试仅剩十天、距离梳理统计考试仅剩十三天的情况下被派去了出差。相比于 10 月份的一周出差，这七天真的是把我恶心到了，具体内容不方便透露，但我只能用极品来评价，这辈子都不想再去一次。出差回来后，就开始了极限复习（出差的时候也有复习一丢丢，因为实在是没时间也没复习很多）。矩阵论还好，之前两个月有认真学过一点，出差前也有在复习做题而且考研的东西还没忘完，以及格为目标的话有信心。但数理统计是真的一点没学，之前学的概率论也全忘完了，真的很怕挂科（虽然这样，还是在作死，考前几天还是边学边玩）。除了这两门考试外，中间还夹杂着上课和做 PPT 汇报。十二月中旬那两周，真的是忙的要死，而且还担心挂科。好在最终都熬了过去有了好的结果：两门数学课都没挂，所有的汇报都完美结束，该交的作业也都交了。十二月下旬又去出了两天差，回来没几天新的一年就在我玩 LOL 的时候默默开启了，也没来得及好好和 2023 说声再见。&lt;/p&gt;
+&lt;h2 id=&#34;合&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#合&#34;&gt;#&lt;/a&gt; 合&lt;/h2&gt;
+&lt;p&gt;至此，就这样结束年终总结吧，其实一月份以来，尤其是最近这一周发生的事情还挺多的，不仅自己单独去一个新地方出差而且去了一次音乐会（在西安音乐厅，宫崎骏经典动漫久石让经典曲目音乐会），挺想写一写的。不过现在已经是二四年了，还是留到二四年的年末去写吧，那时候会不会还记得一月份的这些嘞？谁知道呢！而且呀，今天晚上我又双叒叕在 Keep 上立下了 Flag，希望在 24 年能实现它们吧！&lt;/p&gt;
+&lt;p&gt;2024 年 1 月 13 日晚 11 点 54 分于海 C 宿舍&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

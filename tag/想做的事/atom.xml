@@ -1,23 +1,22 @@
 <?xml version="1.0"?>
-<rss version="2.0">
-    <channel>
-        <title> • Posts by &#34;碎碎念&#34; tag</title>
-        <link>http://example.com</link>
-        <description></description>
-        <language>en</language>
-        <pubDate>Wed, 27 Sep 2023 21:20:52 +0800</pubDate>
-        <lastBuildDate>Wed, 27 Sep 2023 21:20:52 +0800</lastBuildDate>
-        <category>游戏简评</category>
-        <category>碎碎念</category>
-        <category>书摘</category>
-        <category>疯言疯语</category>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/09/27/%E4%BA%BA%E7%94%9F%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92%EF%BC%88%E4%B8%80%EF%BC%89/</guid>
-            <title>人生补全计划（一）</title>
-            <link>http://example.com/2023/09/27/%E4%BA%BA%E7%94%9F%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92%EF%BC%88%E4%B8%80%EF%BC%89/</link>
-            <category>碎碎念</category>
-            <pubDate>Wed, 27 Sep 2023 21:20:52 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title> • Posts by &#34;想做的事&#34; tag</title>
+    <link href="http://example.com" />
+    <updated>2023-09-27T13:20:52.000Z</updated>
+    <category term="游戏简评" />
+    <category term="月度小结" />
+    <category term="关于自己" />
+    <category term="书摘" />
+    <category term="小小思考" />
+    <category term="想做的事" />
+    <category term="疯言疯语" />
+    <category term="年终总结" />
+    <entry>
+        <id>http://example.com/2023/09/27/%E4%BA%BA%E7%94%9F%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+        <title>人生补全计划（一）</title>
+        <link rel="alternate" href="http://example.com/2023/09/27/%E4%BA%BA%E7%94%9F%E8%A1%A5%E5%85%A8%E8%AE%A1%E5%88%92%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+        <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;出一个补全计划的想法已然很久，一些想完成的事或者一些补全计划之前虽有在本本上写过几次，但总是寥寥几件，或许有些实现了，但大多最终都不了了之。可能是最近真正闲下来了或者是最近一年的经历让我产生了些许感想亦或许是觉得已然到了学生生涯的末期，不论哪种，总之现在想以博客的形式系统完整地记录保存一些我想在学生时代或者说是人生中想要做的一些事、看的一些番、读的一些书、玩的一些游戏种种。算是给自己二十几岁的岁月中留下一些痕迹吧。所选的书、番、游戏等都是我觉得还算优质的，倘若还有闲暇时间，我也会尝试写一些评测或随笔记录在博客中。九月八日凌晨小记。&lt;/p&gt;
 &lt;h1 id=&#34;正文&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#正文&#34;&gt;#&lt;/a&gt; 正文&lt;/h1&gt;
 &lt;p&gt;果然不出自己所料，等到想起继续写这篇小记的时候已经过了近二十天了。回想这二十天，不仅感叹又虚度了大半的时光。代码没写多少，基础知识没看，数学没咋学，没有规划目标，仿佛又回到了大三的颓废时光。每晚立志早起总会被手机拖跨，学习又被种种事情搞得心神不宁，二十天像是在梦里度过一般。唔，是要改变了，拖延症也要戒掉。如此三年下去，最终必然像去年一样在焦虑与悔恨中度过，但不一定会有和去年一样好的结果。&lt;/p&gt;
@@ -62,7 +61,8 @@
 &lt;hr&gt;
 &lt;h1 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h1&gt;
 &lt;p&gt;本篇的小记只能说写了一半，这个系列也将一直写下去。书单仅写了两本，别的书也不知道看啥，只能先去图书馆转转，之后再补全，大概率是推理小说相关，我对此很感兴趣。除这些外，以后估计还会出一个专业相关的书单，包括一些基础课程的书籍等等，需要提高一下自己，为两年后找工作准备吧。还有一个项目的清单，准备学着写几个项目放到 GitHub 上，找实习和工作用，希望能坚持下去。&lt;/p&gt;
- ]]></description>
-        </item>
-    </channel>
-</rss>
+</content>
+        <category term="想做的事" />
+        <updated>2023-09-27T13:20:52.000Z</updated>
+    </entry>
+</feed>

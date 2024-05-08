@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title> • Posts by &#34;月度小结&#34; tag</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>en</language>
+        <pubDate>Sat, 30 Mar 2024 17:56:13 +0800</pubDate>
+        <lastBuildDate>Sat, 30 Mar 2024 17:56:13 +0800</lastBuildDate>
+        <category>游戏简评</category>
+        <category>月度小结</category>
+        <category>关于自己</category>
+        <category>书摘</category>
+        <category>小小思考</category>
+        <category>想做的事</category>
+        <category>疯言疯语</category>
+        <category>年终总结</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/03/30/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%89%E6%9C%88%E5%B0%8F%E7%BB%93/</guid>
+            <title>二四年三月小结</title>
+            <link>http://example.com/2024/03/30/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%89%E6%9C%88%E5%B0%8F%E7%BB%93/</link>
+            <category>月度小结</category>
+            <pubDate>Sat, 30 Mar 2024 17:56:13 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;三月小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三月小结&#34;&gt;#&lt;/a&gt; 三月小结&lt;/h2&gt;
+&lt;h3 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h3&gt;
+&lt;p&gt;又到月末，想再水一篇总结，把欠下的 blog 补全。&lt;br&gt;
+所以滑动鼠标滚轮，在 keep 上翻看归档的每日计划，仔细回想这个月干了哪些事。唔，这个月总算没太闲着了，也算有些许收获。让我分点列出：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;游戏（玩）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不同的冬天（和 ZYF 通关）：还是有点深度的一个游戏，但是剧情有点谜语人。&lt;/li&gt;
+&lt;li&gt;碧蓝幻想 relink：演出真不错，主线就是爽游，但要玩得爽也要刷刷刷。奶刀真的帅！&lt;/li&gt;
+&lt;li&gt;山河旅探：玩到第四章了，先不谈抄袭、借鉴什么的。实打实本格推理力作，并且结合了近代史家国元素，值得一玩。&lt;/li&gt;
+&lt;li&gt;艾尔登法环：真的是属于，打开了不想关，关了不想打开。如果不是有学习任务，真的想玩一天。&lt;/li&gt;
+&lt;li&gt;Getting Over It：教研室折磨自己，锻炼心态的。&lt;/li&gt;
+&lt;li&gt;LOL：开黑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;游戏（买）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;入手了 PSV&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;碧蓝幻想 relink&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;暗黑地牢：玩不来&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;犹格索托的庭院&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GRIS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SHADOW OF WAR&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PORTAL&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;书（读）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;旅宿：已读完，值得二刷&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;听听那冷雨：太专业的读不下去，就让我算是读完了吧&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我与地坛：没读完&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;项目相关&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;实验室的交接代码看完了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用 C++ 复现了论文 SPDMEF 的代码，并提交到了 github&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;整理 pin 的项目，提交了第一个单词 &amp;quot;I&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;C++、JAVA、Makefile、Boost 库、opencv、编程规范学习并整理到语雀&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 天时间重装了电脑，自己装了机械硬盘，&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;杂项&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;上课和考试&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;乒乓球与网球&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;师兄师姐拍毕业照吃饭&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;逛校园和拍照&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划&#34;&gt;#&lt;/a&gt; 计划&lt;/h2&gt;
+&lt;p&gt;书到现在应读九本，实际欠了五本半，估计今年计划泡汤了。blog 按计划算是水了上来。游戏买了也没玩多少（而且卡带还没买过），一个月玩了应该不到 50 个小时，少睡会觉吧。下个月真的得多读一点书了，还有主题开发要迅速提上日常。&lt;/p&gt;
+&lt;p&gt;哎，到现在没有工资，不然考虑买个 surface，提高一下效率，上课开发加上新增一块屏幕。&lt;/p&gt;
+&lt;p&gt;目前计划，下个月把 C++ 5th 那本书看完，以及 effictive c++ 看完，还有 json 那个项目。&lt;/p&gt;
+&lt;p&gt;实验室项目看看视觉相关的知识吧，还有 Qt 知识。&lt;/p&gt;
+&lt;p&gt;游戏，先把山河旅探和法环通关，然后是碧蓝。春物教研室玩吧，躺床上的时候玩一会苍彼。&lt;/p&gt;
+&lt;p&gt;论文，不想看，想找工作。&lt;/p&gt;
+&lt;p&gt;清明，出去玩一次，不算入旅游计划。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/03/01/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%BA%8C%E6%9C%88%E5%B0%8F%E7%BB%93/</guid>
+            <title>二四年二月小结</title>
+            <link>http://example.com/2024/03/01/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%BA%8C%E6%9C%88%E5%B0%8F%E7%BB%93/</link>
+            <category>月度小结</category>
+            <pubDate>Fri, 01 Mar 2024 21:19:51 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;二月小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二月小结&#34;&gt;#&lt;/a&gt; 二月小结&lt;/h1&gt;
+&lt;h2 id=&#34;小叙&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#小叙&#34;&gt;#&lt;/a&gt; 小叙&lt;/h2&gt;
+&lt;p&gt;一句话总结一下二月就是吃喝玩乐。&lt;/p&gt;
+&lt;p&gt;容我先用流水账的方式回忆一下我这个月都干了什么。2 月 3 日，坐车回石家庄，找发小玩了三天直到到腊月二十六晚才回家。之后的日子里不是在床上躺着玩手机，就是去网吧五排开黑，要么就是去串亲戚去吃饭，期间初中十几个同学还聚了一次。悠闲的时光过得总是很快，初九也就是 18 号回到学校，当晚得知有个作业没交后花了 30 分钟写完匆匆上交。之后两天就是拿快递和收拾宿舍，偶尔去教研室学一会。19 到 25 这周内，写了写两门课程的作业，IS 的代码改了一些，看了会书，其余全花费在游戏上。26 号用 latex 写完 Data Mining 这门课的报告，27 号看了 LT 的代码并改了改 IS 代码。&lt;/p&gt;
+&lt;p&gt;综上就是这一个月所干的全部事情，似乎没有什么特别值得记住的。&lt;/p&gt;
+&lt;h2 id=&#34;flag完成情况&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flag完成情况&#34;&gt;#&lt;/a&gt; FLAG 完成情况&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;游戏入手情况：《山河旅探》、《饿殍：明末千里行》及周边、《桃源村日志》及周边、《黑森町奇谭》&lt;/li&gt;
+&lt;li&gt;游戏通关情况：未通关任一游戏，二月在家主要玩 PUBG 和 LOL，回校后玩了苍彼美咲线、艾尔登法环、山河旅探。上述三个真的是好游戏，值得写评测。&lt;/li&gt;
+&lt;li&gt;读书情况：看完了阿加莎的《四魔头》（在回家的高铁上看的），只能说这本书不太推荐；还正在看余光中的《听听那冷雨》，有些文章值得细品，给我的整体感觉是辞藻华丽（中性），有些句子读不明白。相比于汪曾祺先生的散文来说，我还是更喜欢汪先生的文风，不过余光中先生的散文中许多段落都值得背诵摘抄。除此之外，复习了《项脊轩志》和《虞美人・听雨》，真的好喜欢这两篇啊，尤其是《项脊轩志》，越读感触越深。&lt;/li&gt;
+&lt;li&gt;入手了咖啡机，瑞幸的豆子，自己做了几次，味道只能说正统美式苦味，说不上好喝。需要学一学咖啡怎么做。&lt;/li&gt;
+&lt;li&gt;Blog 主题没写，前端没学，JAVA 都没学。C++ 没怎么看（看了一点点中的一点点）。项目没进展，而且又多了一个活。&lt;/li&gt;
+&lt;li&gt;意外收获：回家换了一个手机苹果 13&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;后记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h2&gt;
+&lt;p&gt;这个月没什么有意思的事情发生，月末这几天晚上都会 LOL 和同学开黑组排，争取上个翡翠。下个月唯一目标，早睡早起，写 Blog 主题。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/01/31/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%80%E6%9C%88%E5%B0%8F%E7%BB%93/</guid>
+            <title>二四年一月小结</title>
+            <link>http://example.com/2024/01/31/%E4%BA%8C%E5%9B%9B%E5%B9%B4%E4%B8%80%E6%9C%88%E5%B0%8F%E7%BB%93/</link>
+            <category>月度小结</category>
+            <pubDate>Wed, 31 Jan 2024 01:19:13 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;二四年一月小结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二四年一月小结&#34;&gt;#&lt;/a&gt; 二四年一月小结&lt;/h1&gt;
+&lt;h2 id=&#34;序&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#序&#34;&gt;#&lt;/a&gt; 序&lt;/h2&gt;
+&lt;p&gt;本来不打算写这篇流水账的，但如果不写，自己立 FLAG 就又成功没有实现。好吧，写！回想这个月来，自己也没闲几天，不是出差就是在准备去出差的路上。出差的日子总共加起来也有九天了。尤其是月末这几天心情很糟，真的很想发泄骂人。我宣布我目前最大的目标就是尽快毕业。&lt;/p&gt;
+&lt;h2 id=&#34;流水账&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#流水账&#34;&gt;#&lt;/a&gt; 流水账&lt;/h2&gt;
+&lt;h3 id=&#34;一月份玩的游戏&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一月份玩的游戏&#34;&gt;#&lt;/a&gt; 一月份玩的游戏&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;LOL&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;幻兽帕鲁（未通关）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;山海旅人（全成就）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;近月少女礼仪（露娜线通关，其余未通）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;wildfire（未通关）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;100 Asian Cats（全成就）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;100 Capitalist Cats（全成就）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ICEY（通关，未全成就）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;MHW&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;一月份读的书&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一月份读的书&#34;&gt;#&lt;/a&gt; 一月份读的书&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;八仙&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;四魔头（未读完&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;一月份看的番&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一月份看的番&#34;&gt;#&lt;/a&gt; 一月份看的番&lt;/h3&gt;
+&lt;p&gt;厕纸系列&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;圣剑学院的魔剑使&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;捡到被退婚大小姐的我&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因为不是真正的伙伴而被逐出勇者队伍&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;暴食狂战士&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;月光下的异世界之旅第二季（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为了在异世界也能抚摸毛茸茸而努力（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;事与愿违的不死冒险者（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因为不是真正的伙伴而被逐出勇者队伍第二季（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;推荐系列&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;关于我转生变成史莱姆这档事  彩叶草之梦&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;葬送的芙莉莲&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;物理魔法师马修第二季（未更完&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;一月工作学习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一月工作学习&#34;&gt;#&lt;/a&gt; 一月工作学习&lt;/h3&gt;
+&lt;p&gt;极度弱智的 IS，我真的不想再搞了。这个大部分时间都在干这个，有啥用啊！！！&lt;/p&gt;
+&lt;p&gt;没有科研，只有出差。&lt;/p&gt;
+&lt;p&gt;学了一点 CSS 的知识，想先设计一下自己的主题。做了几道题以及配了一下环境，还有写了一些文档。（还算是有一些自己的收获吧）&lt;/p&gt;
+&lt;h2 id=&#34;结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#结&#34;&gt;#&lt;/a&gt; 结&lt;/h2&gt;
+&lt;p&gt;心情很烦，不想写太多内容。想回家，想放假，这鬼地方一分钟也不想待了。我真的真的真的受不了了。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
