@@ -3,27 +3,26 @@
     <id>http://example.com</id>
     <title></title>
     <link href="http://example.com" />
-    <updated>2024-06-04T16:09:04.272Z</updated>
+    <updated>2024-06-09T10:16:16.057Z</updated>
     <category term="月度小结" />
     <category term="游戏简评" />
-    <category term="书摘" />
     <category term="想做的事" />
+    <category term="疯言疯语" />
+    <category term="书摘" />
     <category term="关于自己" />
     <category term="小小思考" />
-    <category term="疯言疯语" />
     <category term="分享记录" />
     <category term="年终总结" />
     <entry>
-        <id>http://example.com/2024/06/05/%E6%9C%80%E8%BF%91%E6%B8%B8%E6%88%8F%E7%AE%80%E8%AF%84/</id>
+        <id>http://example.com/2024/06/09/%E6%9C%80%E8%BF%91%E6%B8%B8%E6%88%8F%E7%AE%80%E8%AF%84/</id>
         <title></title>
-        <link rel="alternate" href="http://example.com/2024/06/05/%E6%9C%80%E8%BF%91%E6%B8%B8%E6%88%8F%E7%AE%80%E8%AF%84/"/>
+        <link rel="alternate" href="http://example.com/2024/06/09/%E6%9C%80%E8%BF%91%E6%B8%B8%E6%88%8F%E7%AE%80%E8%AF%84/"/>
         <content type="html">&lt;hr&gt;
-&lt;p&gt;title: 最近游戏简评&lt;br&gt;
+&lt;h2 id=&#34;title-最近游戏简评date-2024-05-29-204458excerpt-上半年游戏玩的其实并不是很多每周的游戏时间平均不到二十小时最近开始组会汇报更是没有时间去玩-尤其晚上回宿舍太晚就不想玩了一般看会直播就水饺了-有点能预见到工作后的生活了-category-游戏tags-游戏简评&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#title-最近游戏简评date-2024-05-29-204458excerpt-上半年游戏玩的其实并不是很多每周的游戏时间平均不到二十小时最近开始组会汇报更是没有时间去玩-尤其晚上回宿舍太晚就不想玩了一般看会直播就水饺了-有点能预见到工作后的生活了-category-游戏tags-游戏简评&#34;&gt;#&lt;/a&gt; title: 最近游戏简评&lt;br&gt;
  date: 2024-05-29 20:44:58&lt;br&gt;
-tags: 游戏简评&lt;/p&gt;
-&lt;p&gt;categories: 游戏&lt;/p&gt;
-&lt;p&gt;excerpt: 上半年游戏玩的其实并不是很多，每周的游戏时间平均不到二十小时，最近开始组会汇报更是没有时间去玩。尤其晚上回宿舍太晚就不想玩了，一般看会直播就水饺了。有点能预见到工作后的生活了。&lt;/p&gt;
-&lt;hr&gt;
+excerpt: 上半年游戏玩的其实并不是很多，每周的游戏时间平均不到二十小时，最近开始组会汇报更是没有时间去玩。尤其晚上回宿舍太晚就不想玩了，一般看会直播就水饺了。有点能预见到工作后的生活了。&lt;br&gt;
+category: 游戏&lt;br&gt;
+ tags: 游戏简评&lt;/h2&gt;
 &lt;h1 id=&#34;24年上半年游戏简评&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#24年上半年游戏简评&#34;&gt;#&lt;/a&gt; 24 年上半年游戏简评&lt;/h1&gt;
 &lt;h3 id=&#34;艾尔登法环&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#艾尔登法环&#34;&gt;#&lt;/a&gt; 艾尔登法环&lt;/h3&gt;
 &lt;p&gt;如果你没有玩过这个游戏，那我极力极力推荐你去试试。让我印象最深不是 BOSS 战、不是故事，而是里面的风景、建筑与地图设计（墓地与恶心的沼泽除外）。地底星空、雪山、崩坏的法姆亚兹拉初见真的让人震撼。一周目玩的狗牙，等级碾压后打 boss 复读战绩有点轮椅。&lt;/p&gt;
@@ -50,19 +49,18 @@ tags: 游戏简评&lt;/p&gt;
 &lt;h3 id=&#34;碧蓝幻想relink&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#碧蓝幻想relink&#34;&gt;#&lt;/a&gt; 碧蓝幻想 relink&lt;/h3&gt;
 &lt;p&gt;战斗！爽！不到 648 的一半你就可以爽至少 100 个小时。&lt;/p&gt;
 </content>
-        <updated>2024-06-04T16:09:04.272Z</updated>
+        <updated>2024-06-09T10:16:16.057Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/06/04/%E6%8A%BD%E8%B1%A1%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91/</id>
+        <id>http://example.com/2024/06/09/%E6%8A%BD%E8%B1%A1%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91/</id>
         <title></title>
-        <link rel="alternate" href="http://example.com/2024/06/04/%E6%8A%BD%E8%B1%A1%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91/"/>
+        <link rel="alternate" href="http://example.com/2024/06/09/%E6%8A%BD%E8%B1%A1%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91/"/>
         <content type="html">&lt;hr&gt;
-&lt;p&gt;title: 抽象的互联网&lt;br&gt;
+&lt;h2 id=&#34;title-抽象的互联网date-2024-05-21-204458excerpt-原本这一篇已经写了一半但过了一周重新打开文件时却变成了空的就连当时义愤填膺的心情也已经荡然无存-所以这一篇也不打算再花很多时间去写仅用三言两语凭吊一下我心中的互联网-category-日常吐槽tags-疯言疯语&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#title-抽象的互联网date-2024-05-21-204458excerpt-原本这一篇已经写了一半但过了一周重新打开文件时却变成了空的就连当时义愤填膺的心情也已经荡然无存-所以这一篇也不打算再花很多时间去写仅用三言两语凭吊一下我心中的互联网-category-日常吐槽tags-疯言疯语&#34;&gt;#&lt;/a&gt; title: 抽象的互联网&lt;br&gt;
  date: 2024-05-21 20:44:58&lt;br&gt;
-tags: 疯言疯语&lt;/p&gt;
-&lt;p&gt;categories: 日常吐槽&lt;/p&gt;
-&lt;p&gt;excerpt: 原本这一篇已经写了一半，但过了一周重新打开文件时却变成了空的，就连当时义愤填膺的心情也已经荡然无存。所以这一篇也不打算再花很多时间去写，仅用三言两语凭吊一下我心中的互联网。&lt;/p&gt;
-&lt;hr&gt;
+excerpt: 原本这一篇已经写了一半，但过了一周重新打开文件时却变成了空的，就连当时义愤填膺的心情也已经荡然无存。所以这一篇也不打算再花很多时间去写，仅用三言两语凭吊一下我心中的互联网。&lt;br&gt;
+category: 日常吐槽&lt;br&gt;
+ tags: 疯言疯语&lt;/h2&gt;
 &lt;h1 id=&#34;抽象的互联网&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#抽象的互联网&#34;&gt;#&lt;/a&gt; 抽象的互联网&lt;/h1&gt;
 &lt;p&gt;原本这一篇已经写了一半，但过了一周重新打开文件时却变成了空的，就连当时义愤填膺的心情也已经荡然无存。所以这一篇也不打算再花很多时间去写，仅用三言两语凭吊一下我心中的互联网。&lt;/p&gt;
 &lt;p&gt;事情的起因是一张图：&lt;/p&gt;
@@ -75,7 +73,7 @@ tags: 疯言疯语&lt;/p&gt;
 &lt;p&gt;本人对短视频持有极端想法，坚决抵制各种短视频软件（可惜 B 站确实有点用没卸载）。&lt;/p&gt;
 &lt;p&gt;至于为什么不用 RSS？第一是麻烦，第二并没有很多想看的源，第三用过但不习惯。&lt;/p&gt;
 </content>
-        <updated>2024-06-04T15:55:20.298Z</updated>
+        <updated>2024-06-09T10:15:34.144Z</updated>
     </entry>
     <entry>
         <id>http://example.com/2024/05/16/%E8%AE%B0%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%B7%E6%B7%98/</id>
