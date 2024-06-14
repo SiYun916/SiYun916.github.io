@@ -3,16 +3,35 @@
     <id>http://example.com</id>
     <title> • Posts by &#34;疯言疯语&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2024-04-27T13:54:39.000Z</updated>
+    <updated>2024-06-14T04:08:04.000Z</updated>
+    <category term="书摘" />
     <category term="月度小结" />
     <category term="游戏简评" />
-    <category term="想做的事" />
     <category term="疯言疯语" />
-    <category term="书摘" />
     <category term="关于自己" />
+    <category term="想做的事" />
     <category term="小小思考" />
-    <category term="分享记录" />
     <category term="年终总结" />
+    <category term="分享记录" />
+    <entry>
+        <id>http://example.com/2024/06/14/%E6%8A%BD%E8%B1%A1%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91/</id>
+        <title>抽象的互联网</title>
+        <link rel="alternate" href="http://example.com/2024/06/14/%E6%8A%BD%E8%B1%A1%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91/"/>
+        <content type="html">&lt;h1 id=&#34;抽象的互联网&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#抽象的互联网&#34;&gt;#&lt;/a&gt; 抽象的互联网&lt;/h1&gt;
+&lt;p&gt;原本这一篇已经写了一半，但过了一周重新打开文件时却变成了空的，就连当时义愤填膺的心情也已经荡然无存。所以这一篇也不打算再花很多时间去写，仅用三言两语凭吊一下我心中的互联网。&lt;/p&gt;
+&lt;p&gt;事情的起因是一张图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/SiYun916/CDN/master/blogPostPhotos/240522/chouxiang.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我不看篮球也不玩篮球，更不是谁的粉丝。这张图当时之所以会激起我极其反感的态度，在于烂梗一遍又一遍得强奸着我的生活。随手打开一个带有社交属性的软件，打开一个视频或者一篇文章，我会被各种烂梗、低能言论、污言秽语搞得不胜其烦。广告、营销、诈骗无孔不入，短视频、营销号、自媒体颠倒是非，通过搞对立、歧视、擦边谋取流量，唯利至上。此外我尤其忍受不了的是知乎那种把知识当作炫耀资本，肚里有点墨水就趾高气扬的知乎范。&lt;/p&gt;
+&lt;p&gt;我心中的互联网不应该是这样子的，现在的互联网真的太可怕了。一双莫名的大手推动者舆论的洪流，它总能把握你心中的情绪，激发你或是愤慨或是同情或是其他负面情绪。理性的发声被洪流淹没，所有人被有目的的舆论裹挟着前进，去对某人做出判决。其实这个判决的结果并不重要，重要的是有没有人获利，有没有人看了乐子解了闷儿。至于某人，他的结局最好是悲惨的，坏人结果就是得到应有的惩罚，好人结果就是得到大家伙的同情。枪响了，开枪的人站在道德的制高点上，他站在阳光下。&lt;/p&gt;
+&lt;p&gt;我很赞同娱乐至死中的一句话，我们将毁于我们热爱的东西。 我们的文化正在成为充满感官刺激、欲望和无规则游戏的庸俗文化。&lt;/p&gt;
+&lt;p&gt;现在虽离不了互联网，但我真的十分讨厌现在的互联网。我不是什么圣人，也不想当理中客，我仅仅是舆论下芸芸众生中的一个有着无数人性之恶的普通人。只是希望有一天可以把所有电子设备抛弃，一个人安安静静地晒晒太阳、发发呆、看看书，没人找也没人烦。&lt;/p&gt;
+&lt;h3 id=&#34;后记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后记&#34;&gt;#&lt;/a&gt; 后记&lt;/h3&gt;
+&lt;p&gt;本人对短视频持有极端想法，坚决抵制各种短视频软件（可惜 B 站确实有点用没卸载）。&lt;/p&gt;
+&lt;p&gt;至于为什么不用 RSS？第一是麻烦，第二并没有很多想看的源，第三用过但不习惯。&lt;/p&gt;
+</content>
+        <category term="疯言疯语" />
+        <updated>2024-06-14T04:08:04.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/04/27/%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89/</id>
         <title>形式主义</title>
