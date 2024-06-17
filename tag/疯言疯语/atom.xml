@@ -3,16 +3,34 @@
     <id>http://example.com</id>
     <title> • Posts by &#34;疯言疯语&#34; tag</title>
     <link href="http://example.com" />
-    <updated>2024-06-14T04:08:04.000Z</updated>
-    <category term="书摘" />
+    <updated>2024-06-17T14:57:14.000Z</updated>
     <category term="月度小结" />
+    <category term="书摘" />
     <category term="游戏简评" />
-    <category term="疯言疯语" />
-    <category term="关于自己" />
     <category term="想做的事" />
+    <category term="关于自己" />
+    <category term="疯言疯语" />
     <category term="小小思考" />
-    <category term="年终总结" />
     <category term="分享记录" />
+    <category term="年终总结" />
+    <entry>
+        <id>http://example.com/2024/06/17/%E6%9C%80%E8%BF%91%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%B4%AF/</id>
+        <title>最近真的好累</title>
+        <link rel="alternate" href="http://example.com/2024/06/17/%E6%9C%80%E8%BF%91%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%B4%AF/"/>
+        <content type="html">&lt;p&gt;最近真的好累。累死了。不想干活了。最近真的好累。累死了。不想干活了。最近真的好累。累死了。不想干活了。最近真的好累。累死了。不想干活了。最近真的好累。累死了。不想干活了。最近真的好累。累死了。不想干活了。&lt;/p&gt;
+&lt;p&gt;精神已经不正常了。凭啥我又要出差又要搞科研。烦死了。&lt;br&gt;
+凭啥我又要出差又要搞科研。烦死了。&lt;br&gt;
+烦死了&lt;br&gt;
+烦死了&lt;br&gt;
+烦死了&lt;br&gt;
+烦死了&lt;br&gt;
+要死了&lt;br&gt;
+死了&lt;br&gt;
+了&lt;/p&gt;
+</content>
+        <category term="疯言疯语" />
+        <updated>2024-06-17T14:57:14.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/06/14/%E6%8A%BD%E8%B1%A1%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91/</id>
         <title>抽象的互联网</title>
