@@ -3,16 +3,27 @@
     <id>http://example.com</id>
     <title> • Posts by &#34;日常吐槽&#34; category</title>
     <link href="http://example.com" />
-    <updated>2024-06-17T14:57:14.000Z</updated>
+    <updated>2024-06-18T15:53:43.000Z</updated>
+    <category term="游戏简评" />
     <category term="月度小结" />
     <category term="书摘" />
-    <category term="游戏简评" />
     <category term="疯言疯语" />
-    <category term="关于自己" />
     <category term="想做的事" />
+    <category term="关于自己" />
     <category term="小小思考" />
-    <category term="年终总结" />
     <category term="分享记录" />
+    <category term="年终总结" />
+    <entry>
+        <id>http://example.com/2024/06/18/%E6%88%91%E7%83%AD%E7%83%88%E7%9A%84%E9%A9%AC/</id>
+        <title>我热烈的马</title>
+        <link rel="alternate" href="http://example.com/2024/06/18/%E6%88%91%E7%83%AD%E7%83%88%E7%9A%84%E9%A9%AC/"/>
+        <content type="html">&lt;p&gt;这段时间压力真的挺大，所以忍不住爆粗口。真的恶心，一直写本子干活，还要汇报搞科研。&lt;/p&gt;
+&lt;p&gt;出差也恶心，去了提这要求又提那要求，熬着人还不让走。我就是个研一的学生，连饭都没来得及吃就被你叫过去，熬到 11 点才让回，到宿舍都 12 点多了，真的纯纯 SB。现在环境都这样了吗？技术不懂个 B 技术都能读个博士？&lt;/p&gt;
+&lt;p&gt;现在只想毕业，读这个研究生有什么用？也就一个文凭有用罢了。真的是纯黑奴，钱没个 B 钱还要随叫随到。有的时候真想怼回去，恶心到家了。&lt;/p&gt;
+</content>
+        <category term="疯言疯语" />
+        <updated>2024-06-18T15:53:43.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/06/17/%E6%9C%80%E8%BF%91%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%B4%AF/</id>
         <title>最近真的好累</title>
