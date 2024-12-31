@@ -11,7 +11,9 @@
     font-size: 1.5vh;
     color: #999;
     text-align: center;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
+    background-image: radial-gradient(circle , #485b4d .1px, transparent 1px);
+    background-size: 15px 15px;
 }
 
 .navbar {
@@ -102,23 +104,79 @@
     opacity: 60%;
 }
 
-.cover {
-    height: 100%;
-    width: 100%;
-}
 
-.coverimage {
+/* .cover {
     height: 100vh;
     width: 100%;
-    background-image: url(https://raw.githubusercontent.com/SiYun916/CDN/master/hexoThemeDevelop/bg1.png);
-    background-size: cover;
+} */
+
+.coverimage {
+    height: 100%;
+    width: 100%;
+    background-image: url(https://raw.githubusercontent.com/SiYun916/CDN/master/hexoThemeDevelop/refactoring/homeBG.png);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+#banner_wave_1 {
+    width:auto;
+    height:65px;
+    background:url("https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/wave1.png") repeat-x;
+    _filter:alpha(opacity=80);
+    position:absolute;
+    bottom:0;
+    width:100%;
+    left:0px;
+    z-index:1;
+    opacity:1;
+    transiton-property:opacity,bottom;
+    transition-duration:.4s,.4s
+}
+#banner_wave_2 {
+    width:auto;
+    height:80px;
+    background:url("https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/other/wave2.png") repeat-x;
+    _filter:alpha(opacity=80);
+    position:absolute;
+    bottom:0;
+    width:100%;
+    left:0;
+    z-index:0;
+    opacity:1;
+    transiton-property:opacity,bottom;
+    transition-duration:.4s,.4s
+}
+.banner_wave_hide,.banner_wave_hide_fit_skin {
+    opacity:0 !important;
+    bottom:-999px !important
+}
+.headertop-down {
+    position:absolute;
+    bottom:50px;
+    left:calc(50% - 14px);
+    cursor:pointer;
+    z-index:5
+}
+@media(max-width:860px) {
+    .headertop-down {
+    display:none
+}
+}.headertop-down i {
+    font-size:28px;
+    color:#fff;
+    transform:scale(1.5,1)
 }
 
 .postsblock {
     height: 2800px;
     width: 100%;
     position: relative;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
+    background-image: radial-gradient(circle , #485b4d .1px, transparent 1px);
+    background-size: 15px 15px;
 }
 
 .segmentation {
